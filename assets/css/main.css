@@ -2373,6 +2373,7 @@ button:active,
 #main > section.one {
   background-color: #81918e;
   background-image: url("../../images/banner.jpg");
+  opacity: 40%;
 }
 
 #main > section.two {
